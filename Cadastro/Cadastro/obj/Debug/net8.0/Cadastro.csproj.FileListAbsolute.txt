@@ -1,0 +1,15 @@
+C:\Users\labsfiap\Documents\GitHub\CSharp_cp01_Cadastro\Cadastro\Cadastro\obj\Debug\net8.0\Cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Documents\GitHub\CSharp_cp01_Cadastro\Cadastro\Cadastro\obj\Debug\net8.0\Cadastro.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Documents\GitHub\CSharp_cp01_Cadastro\Cadastro\Cadastro\obj\Debug\net8.0\Cadastro.AssemblyInfo.cs
+C:\Users\labsfiap\Documents\GitHub\CSharp_cp01_Cadastro\Cadastro\Cadastro\obj\Debug\net8.0\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Documents\GitHub\CSharp_cp01_Cadastro\Cadastro\Cadastro\obj\Debug\net8.0\Cadastro.sourcelink.json
+C:\Users\labsfiap\Documents\GitHub\CSharp_cp01_Cadastro\Cadastro\Cadastro\bin\Debug\net8.0\Cadastro.exe
+C:\Users\labsfiap\Documents\GitHub\CSharp_cp01_Cadastro\Cadastro\Cadastro\bin\Debug\net8.0\Cadastro.deps.json
+C:\Users\labsfiap\Documents\GitHub\CSharp_cp01_Cadastro\Cadastro\Cadastro\bin\Debug\net8.0\Cadastro.runtimeconfig.json
+C:\Users\labsfiap\Documents\GitHub\CSharp_cp01_Cadastro\Cadastro\Cadastro\bin\Debug\net8.0\Cadastro.dll
+C:\Users\labsfiap\Documents\GitHub\CSharp_cp01_Cadastro\Cadastro\Cadastro\bin\Debug\net8.0\Cadastro.pdb
+C:\Users\labsfiap\Documents\GitHub\CSharp_cp01_Cadastro\Cadastro\Cadastro\obj\Debug\net8.0\Cadastro.dll
+C:\Users\labsfiap\Documents\GitHub\CSharp_cp01_Cadastro\Cadastro\Cadastro\obj\Debug\net8.0\refint\Cadastro.dll
+C:\Users\labsfiap\Documents\GitHub\CSharp_cp01_Cadastro\Cadastro\Cadastro\obj\Debug\net8.0\Cadastro.pdb
+C:\Users\labsfiap\Documents\GitHub\CSharp_cp01_Cadastro\Cadastro\Cadastro\obj\Debug\net8.0\Cadastro.genruntimeconfig.cache
+C:\Users\labsfiap\Documents\GitHub\CSharp_cp01_Cadastro\Cadastro\Cadastro\obj\Debug\net8.0\ref\Cadastro.dll
