@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\labsfiap\\Documents\\GitHub\\CSharp_cp01_Cadastro\\Cadastro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8F07358-4B80-4163-890F-F0A265EE632C}|Cadastro\\Cadastro.csproj|c:\\users\\labsfiap\\documents\\github\\csharp_cp01_cadastro\\cadastro\\cadastro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8F07358-4B80-4163-890F-F0A265EE632C}|Cadastro\\Cadastro.csproj|solutionrelative:cadastro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8F07358-4B80-4163-890F-F0A265EE632C}|Cadastro\\Cadastro.csproj|c:\\users\\labsfiap\\documents\\github\\csharp_cp01_cadastro\\cadastro\\cadastro\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F07358-4B80-4163-890F-F0A265EE632C}|Cadastro\\Cadastro.csproj|solutionrelative:cadastro\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8F07358-4B80-4163-890F-F0A265EE632C}|Cadastro\\Cadastro.csproj|c:\\users\\labsfiap\\documents\\github\\csharp_cp01_cadastro\\cadastro\\cadastro\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8F07358-4B80-4163-890F-F0A265EE632C}|Cadastro\\Cadastro.csproj|solutionrelative:cadastro\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8F07358-4B80-4163-890F-F0A265EE632C}|Cadastro\\Cadastro.csproj|c:\\users\\labsfiap\\documents\\github\\csharp_cp01_cadastro\\cadastro\\cadastro\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8F07358-4B80-4163-890F-F0A265EE632C}|Cadastro\\Cadastro.csproj|solutionrelative:cadastro\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8F07358-4B80-4163-890F-F0A265EE632C}|Cadastro\\Cadastro.csproj|c:\\users\\labsfiap\\documents\\github\\csharp_cp01_cadastro\\cadastro\\cadastro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F07358-4B80-4163-890F-F0A265EE632C}|Cadastro\\Cadastro.csproj|solutionrelative:cadastro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Pessoa.cs",
               "DocumentMoniker": "C:\\Users\\labsfiap\\Documents\\GitHub\\CSharp_cp01_Cadastro\\Cadastro\\Cadastro\\Pessoa.cs",
               "RelativeDocumentMoniker": "Cadastro\\Pessoa.cs",
@@ -45,20 +45,20 @@
               "RelativeDocumentMoniker": "Cadastro\\Cadastro.cs",
               "ToolTip": "C:\\Users\\labsfiap\\Documents\\GitHub\\CSharp_cp01_Cadastro\\Cadastro\\Cadastro\\Cadastro.cs",
               "RelativeToolTip": "Cadastro\\Cadastro.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wDsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T12:54:54.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\labsfiap\\Documents\\GitHub\\CSharp_cp01_Cadastro\\Cadastro\\Cadastro\\Program.cs",
               "RelativeDocumentMoniker": "Cadastro\\Program.cs",
-              "ToolTip": "C:\\Users\\labsfiap\\Documents\\GitHub\\CSharp_cp01_Cadastro\\Cadastro\\Cadastro\\Program.cs*",
-              "RelativeToolTip": "Cadastro\\Program.cs*",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwEAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\labsfiap\\Documents\\GitHub\\CSharp_cp01_Cadastro\\Cadastro\\Cadastro\\Program.cs",
+              "RelativeToolTip": "Cadastro\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T12:54:17.134Z",
               "EditorCaption": ""
