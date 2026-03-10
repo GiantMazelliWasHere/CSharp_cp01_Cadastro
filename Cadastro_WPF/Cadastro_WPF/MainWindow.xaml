@@ -91,7 +91,7 @@
                         Margin="6"
                         Background="#3B82F6"
                         Foreground="White"
-                        BorderThickness="0"/>
+                        BorderThickness="0" Click="BtnList_Click"/>
 
                 <Button Content="Buscar"
                         Width="110"

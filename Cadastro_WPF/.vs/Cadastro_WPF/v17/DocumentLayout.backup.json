@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\labsfiap\\Documents\\GitHub\\CSharp_cp01_Cadastro\\Cadastro_WPF\\",
+  "WorkspaceRootPath": "E:\\Documents\\GitHub\\CSharp_cp01_Cadastro\\Cadastro_WPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75DB7E3D-C2F1-4EEF-9259-8A49C9424728}|Cadastro_WPF\\Cadastro_WPF.csproj|c:\\users\\labsfiap\\documents\\github\\csharp_cp01_cadastro\\cadastro_wpf\\cadastro_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75DB7E3D-C2F1-4EEF-9259-8A49C9424728}|Cadastro_WPF\\Cadastro_WPF.csproj|e:\\documents\\github\\csharp_cp01_cadastro\\cadastro_wpf\\cadastro_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75DB7E3D-C2F1-4EEF-9259-8A49C9424728}|Cadastro_WPF\\Cadastro_WPF.csproj|solutionrelative:cadastro_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75DB7E3D-C2F1-4EEF-9259-8A49C9424728}|Cadastro_WPF\\Cadastro_WPF.csproj|c:\\users\\labsfiap\\documents\\github\\csharp_cp01_cadastro\\cadastro_wpf\\cadastro_wpf\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75DB7E3D-C2F1-4EEF-9259-8A49C9424728}|Cadastro_WPF\\Cadastro_WPF.csproj|solutionrelative:cadastro_wpf\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75DB7E3D-C2F1-4EEF-9259-8A49C9424728}|Cadastro_WPF\\Cadastro_WPF.csproj|c:\\users\\labsfiap\\documents\\github\\csharp_cp01_cadastro\\cadastro_wpf\\cadastro_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{75DB7E3D-C2F1-4EEF-9259-8A49C9424728}|Cadastro_WPF\\Cadastro_WPF.csproj|e:\\documents\\github\\csharp_cp01_cadastro\\cadastro_wpf\\cadastro_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{75DB7E3D-C2F1-4EEF-9259-8A49C9424728}|Cadastro_WPF\\Cadastro_WPF.csproj|solutionrelative:cadastro_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75DB7E3D-C2F1-4EEF-9259-8A49C9424728}|Cadastro_WPF\\Cadastro_WPF.csproj|c:\\users\\labsfiap\\documents\\github\\csharp_cp01_cadastro\\cadastro_wpf\\cadastro_wpf\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75DB7E3D-C2F1-4EEF-9259-8A49C9424728}|Cadastro_WPF\\Cadastro_WPF.csproj|e:\\documents\\github\\csharp_cp01_cadastro\\cadastro_wpf\\cadastro_wpf\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DB7E3D-C2F1-4EEF-9259-8A49C9424728}|Cadastro_WPF\\Cadastro_WPF.csproj|solutionrelative:cadastro_wpf\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DB7E3D-C2F1-4EEF-9259-8A49C9424728}|Cadastro_WPF\\Cadastro_WPF.csproj|e:\\documents\\github\\csharp_cp01_cadastro\\cadastro_wpf\\cadastro_wpf\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75DB7E3D-C2F1-4EEF-9259-8A49C9424728}|Cadastro_WPF\\Cadastro_WPF.csproj|solutionrelative:cadastro_wpf\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,41 +26,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Documents\\GitHub\\CSharp_cp01_Cadastro\\Cadastro_WPF\\Cadastro_WPF\\Pessoa.cs",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\CSharp_cp01_Cadastro\\Cadastro_WPF\\Cadastro_WPF\\Pessoa.cs",
               "RelativeDocumentMoniker": "Cadastro_WPF\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\labsfiap\\Documents\\GitHub\\CSharp_cp01_Cadastro\\Cadastro_WPF\\Cadastro_WPF\\Pessoa.cs",
+              "ToolTip": "E:\\Documents\\GitHub\\CSharp_cp01_Cadastro\\Cadastro_WPF\\Cadastro_WPF\\Pessoa.cs",
               "RelativeToolTip": "Cadastro_WPF\\Pessoa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T13:49:07.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cadastro.cs",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Documents\\GitHub\\CSharp_cp01_Cadastro\\Cadastro_WPF\\Cadastro_WPF\\Cadastro.cs",
-              "RelativeDocumentMoniker": "Cadastro_WPF\\Cadastro.cs",
-              "ToolTip": "C:\\Users\\labsfiap\\Documents\\GitHub\\CSharp_cp01_Cadastro\\Cadastro_WPF\\Cadastro_WPF\\Cadastro.cs",
-              "RelativeToolTip": "Cadastro_WPF\\Cadastro.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAwwEgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T13:48:53.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T13:49:07.888Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Cadastro.cs",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\CSharp_cp01_Cadastro\\Cadastro_WPF\\Cadastro_WPF\\Cadastro.cs",
+              "RelativeDocumentMoniker": "Cadastro_WPF\\Cadastro.cs",
+              "ToolTip": "E:\\Documents\\GitHub\\CSharp_cp01_Cadastro\\Cadastro_WPF\\Cadastro_WPF\\Cadastro.cs",
+              "RelativeToolTip": "Cadastro_WPF\\Cadastro.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T13:48:53.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Documents\\GitHub\\CSharp_cp01_Cadastro\\Cadastro_WPF\\Cadastro_WPF\\MainWindow.xaml",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\CSharp_cp01_Cadastro\\Cadastro_WPF\\Cadastro_WPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Cadastro_WPF\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\labsfiap\\Documents\\GitHub\\CSharp_cp01_Cadastro\\Cadastro_WPF\\Cadastro_WPF\\MainWindow.xaml",
+              "ToolTip": "E:\\Documents\\GitHub\\CSharp_cp01_Cadastro\\Cadastro_WPF\\Cadastro_WPF\\MainWindow.xaml",
               "RelativeToolTip": "Cadastro_WPF\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-09T13:46:35.675Z",
@@ -70,11 +72,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\labsfiap\\Documents\\GitHub\\CSharp_cp01_Cadastro\\Cadastro_WPF\\Cadastro_WPF\\MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\CSharp_cp01_Cadastro\\Cadastro_WPF\\Cadastro_WPF\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Cadastro_WPF\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\labsfiap\\Documents\\GitHub\\CSharp_cp01_Cadastro\\Cadastro_WPF\\Cadastro_WPF\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\Documents\\GitHub\\CSharp_cp01_Cadastro\\Cadastro_WPF\\Cadastro_WPF\\MainWindow.xaml.cs",
               "RelativeToolTip": "Cadastro_WPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAwwCgAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwB0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T13:46:33.433Z",
               "EditorCaption": ""

@@ -27,7 +27,6 @@ namespace Cadastro_WPF
             if (int.TryParse(EntradaID.Text, out int id) && !string.IsNullOrEmpty(EntradaNome.Text))
             {
                 cadastro.Adicionar(id, EntradaNome.Text);
-                AtualizarGrid();
                 MessageBox.Show("Adicionado com sucesso!");
             }
             EntradaID.Clear();
@@ -36,15 +35,15 @@ namespace Cadastro_WPF
 
         private void BtnList_Click(object sender, RoutedEventArgs e)
         {
-            if (cadastro.ObterTodos().Count == 0)
+            if(cadastro.ObterTodos().Count() == 0)
             {
-                MessageBox.Show("A lista está vazia.");
+                MessageBox.Show("Error: Lista Vazia!");
             }
             else
             {
                 AtualizarGrid();
             }
-
+                
         }
 
         private void BtnBuscarS_Click(object sender, RoutedEventArgs e)
